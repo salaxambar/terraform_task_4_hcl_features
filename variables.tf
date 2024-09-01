@@ -7,7 +7,7 @@ variable "vm_count" {
 }
 
 variable "nic_count" {
-  type        = number
-  default     = 1
+  type    = number
+  default = 1
 }
 
